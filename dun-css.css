@@ -4,12 +4,13 @@ body {
   background-size: cover;
   background-position: none;
   font-family: serif;
-  color:white;}
+  color:red;}
 
    ul{
   margin: 15px;
   padding: 6px;
   list-style: none;
+
 
 }
    ul li {
@@ -20,10 +21,11 @@ body {
     font-size: 22px;
     float: left;
     padding: 8px;
+    color: white;
 }
 
   ul li a {
-    color: white;
+    color:chartreuse;
     text-align: center;
 
   }
@@ -41,16 +43,21 @@ ul li:hover ul li{
   float: right;
   position: relative;
 }
-p{
-   position:fixed;
-   bottom :2;width:145%;
+p  {
+  position:fixed;
+   bottom :0;width:138%;
    text-align:center;
-   color:white;
+   color:greenyellow;
    font-family: serif;
    font-weight: 700;
-   font-size:15 ;
+   font-style: italic;
+   font-size: 22px;
   
 }
+p {
+bottom: 6;
+}
+  
 
 
 
