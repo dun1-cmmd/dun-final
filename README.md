@@ -1,4 +1,4 @@
-# dun-final
+# DUNCAN ONDIEKI
 ip1
 This is my week 1 final ip,
 The project consists of html
