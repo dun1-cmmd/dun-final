@@ -3,10 +3,13 @@ ip1
 This is my week 1 final ip,
 The project consists of html
 and css .
-Duncan ondieki is the author of the project 
-
+Duncan ondieki is the author of the project
+Below is the list of other projects i did,
+the petweb page,
+html is the ony language used,
+https://github.com/dun1-cmmd/dun1-cmmd-tuesday
+is the direct link to the direct link displayed on the main layout besides the project menu bar
 To start using this project use the following commands:
-
 git clone https://github.com/dun1-cmmd/dun-final
 cd index
 code . [//]: # (this is if Visual Studio Code is your preferred text editor)
