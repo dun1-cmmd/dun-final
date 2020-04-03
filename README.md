@@ -13,6 +13,9 @@ git clone https://github.com/dun1-cmmd/dun-final
 cd index
 code . [//]: # (this is if Visual Studio Code is your preferred text editor)
 ##LISENCE
+BDD
+The web application will give a wrong date if the value entered is greter that 31 or 30
+depending on the months and if the month entred is greater than 12.
 
 MIT License
 
